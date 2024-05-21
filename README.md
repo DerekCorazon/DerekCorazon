@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerekCorazon
 - 👀 I’m interested in .c#.javascript.react js.python
-- 🌱 I’m currently learning .c#&javascript..
+- 🌱 I’m currently learning .REACT..
 - 💞️ I’m looking to collaborate on .MVC projects..
 - 📫 How to reach me .dereknandira@gmail.com..
 
